@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="D:\java\java eclipse\jenkinsDemo\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4847000905339489180.tmp"/>
+    <property name="classworlds.conf" value="D:\java\java eclipse\jenkinsDemo\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4237328941174222419.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Users\Priyanka Mehra\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/Priyanka Mehra/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729/jre/bin/server;C:/Users/Priyanka Mehra/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_202\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Priyanka Mehra\AppData\Local\Microsoft\WindowsApps;C:\Users\Priyanka Mehra\AppData\Roaming\npm;C:\Users\Priyanka Mehra\Desktop;;."/>
     <property name="jdk.debug" value="release"/>
@@ -58,7 +58,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="java.vendor.version" value="Temurin-17.0.6+10"/>
-    <property name="m2e.build.project.data.socket.port" value="61939"/>
+    <property name="m2e.build.project.data.socket.port" value="62028"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
   <testcase classname="calculator.com.com.calculator.AppTest" name="testApp" time="0.003"/>
